@@ -12,7 +12,7 @@
 - report.pdf: this document contains our detailed introduction to the project, the thought process, the coding process, the use of tools and techniques, and future improvements.
 - report link: https://docs.google.com/document/d/1e3-rCJgn4zjilpw-arpCZsrFv3RyVayOv1AcIDfB-u4/edit?usp=sharing
 
-## Contributor:
+## Contributors:
 All members contributed equally to this project, with an equal distribution of work among everyone.
 - Qizhi Tian, UCI, qizhit@uci.edu
 - Xuan Gu, UCI, xuang7@uci.edu
