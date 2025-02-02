@@ -16,4 +16,4 @@
 All members contributed equally to this project, with an equal distribution of work among everyone.
 - Qizhi Tian, UCI, qizhit@uci.edu
 - Xuan Gu, UCI, xuang7@uci.edu
-- Jiatong Liu,UCI, jiatonl9@uci.edu
+- Jiatong Liu, UCI, jiatonl9@uci.edu
