@@ -1,6 +1,7 @@
-# Readme
+# Bioeng-Project - Image-Based Bioengineering Data Analysis and Query
+**Notes:** Originally developed at UC Irvine and hosted under my school GitHub account ([QZT168](https://github.com/QZT168)), this project is now forked to my personal GitHub for long-term access.
 
-## Bioeng-Project - Image-Based Bioengineering Data Analysis and Query
+## Project Overview
 - The project developed an automated image analysis and query tool designed to convert unstructured biological cell image data into a structured tabular format and support natural language or SQL-like queries.
 - Project description: https://docs.google.com/document/d/1PApMZ6jZbiUVLxcQBkPXKKV3s7gc-wi4L62d2kpuSck/edit?tab=t.0
 
